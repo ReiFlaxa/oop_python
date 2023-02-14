@@ -1,0 +1,5 @@
+# membuat kalkulator
+  -> deploy ke website dengan menggukan html dan css
+
+# membuat game tic tac
+  -> xoxo game 
