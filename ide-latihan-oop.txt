@@ -1,5 +1,0 @@
-#list ide latihan OOP
-
-
-2. tic tac game
-   -> dibuat publik
