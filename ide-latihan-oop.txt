@@ -1,7 +1,5 @@
 #list ide latihan OOP
 
-1. kalkulator
-   -> dicombinasi dengan html dan css
-   
+
 2. tic tac game
    -> dibuat publik
