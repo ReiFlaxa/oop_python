@@ -1,0 +1,4 @@
+#list ide latihan OOP
+
+1. kalkulator
+   -> dicombinasi dengan html dan css
