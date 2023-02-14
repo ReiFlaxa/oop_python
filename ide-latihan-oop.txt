@@ -2,3 +2,6 @@
 
 1. kalkulator
    -> dicombinasi dengan html dan css
+   
+2. tic tac game
+   -> dibuat publik
