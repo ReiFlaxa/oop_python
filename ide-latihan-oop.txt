@@ -1,4 +1,6 @@
 #list ide latihan OOP
 
 1. kalkulator
-   -> dicombinasi dengan html dan css
+   -> dicombinasi dengan html dan css 
+   -> menambahkan fitur help
+   
