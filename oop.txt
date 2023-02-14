@@ -2,4 +2,4 @@ ___day 11___
   -> belajar tentang cara penggunakan encapculasi lebih advance menggukan laatihan hero yang bisa menambah health dengan exp
   
 __ day 12 __
-  -> belajar tentang 
+  -> belajar tentang bridge
